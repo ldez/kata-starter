@@ -1,4 +1,4 @@
-# Kata Template
+# Kata Starter
 
 ## JavaScript
 
