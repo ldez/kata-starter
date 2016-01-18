@@ -1,0 +1,24 @@
+{
+  "name": "my-mocha-project",
+  "version": "1.0.0",
+  "description": "My mocha project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "keywords": [
+    "project",
+    "babel",
+    "mocha"
+  ],
+  "author": "ldez",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1"
+  }
+}
