@@ -2,6 +2,8 @@
 
 ## JavaScript
 
+- Jasmine, Mocha, QUnit, Babel, Coffeescript, TypeScript
+
 Voir le readme dans le dossier `js`.
 
 ## Go
@@ -13,6 +15,8 @@ Voir le readme dans le dossier `go`.
 Voir le readme dans le dossier `scala`.
 
 ## Java ☕
+
+- Maven, Graddle
 
 Voir le readme dans le dossier `java`.
 
