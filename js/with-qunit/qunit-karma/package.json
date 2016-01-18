@@ -1,0 +1,24 @@
+{
+  "name": "my-qunit-project",
+  "version": "1.0.0",
+  "description": "My QUnit project",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "project",
+    "QUnit",
+    "karma"
+  ],
+  "author": "ldez",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.13.11",
+    "karma-coverage": "^0.5.2",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-qunit": "^0.1.5",
+    "phantomjs": "^1.9.18",
+    "qunitjs": "^1.19.0"
+  }
+}
