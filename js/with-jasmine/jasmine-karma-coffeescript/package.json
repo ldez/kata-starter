@@ -1,0 +1,28 @@
+{
+  "name": "my-coffeescript-project",
+  "version": "1.0.0",
+  "description": "My CoffeeScript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "project",
+    "jasmine",
+    "karma",
+    "CoffeeScript"
+  ],
+  "author": "ldez",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "ibrik": "^2.0.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.11",
+    "karma-coffee-preprocessor": "^0.3.0",
+    "karma-coverage": "^0.5.2",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.18"
+  }
+}
