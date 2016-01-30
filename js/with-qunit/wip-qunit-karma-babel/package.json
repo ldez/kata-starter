@@ -1,0 +1,28 @@
+{
+  "name": "my-qunit-project",
+  "version": "1.0.0",
+  "description": "My QUnit project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "project",
+    "QUnit",
+    "karma",
+    "babel"
+  ],
+  "author": "ldez",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.13.7",
+    "karma-babel-preprocessor": "^5.2.1",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-qunit": "^0.1.5",
+    "phantomjs": "^1.9.17",
+    "qunitjs": "^1.18.0"
+  }
+}
