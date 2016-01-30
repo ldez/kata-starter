@@ -1,0 +1,22 @@
+{
+  "name": "my-jasmine-project",
+  "version": "1.0.0",
+  "description": "My jasmine project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-babel"
+  },
+  "keywords": [
+    "project",
+    "jasmine",
+    "babel"
+  ],
+  "author": "ldez",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "jasmine": "^2.3.2",
+    "jasmine-babel": "^2.0.0",
+    "jasmine-terminal-reporter": "^1.0.0"
+  }
+}
