@@ -1,0 +1,26 @@
+{
+  "name": "wip-jasmine-karma-gulp",
+  "version": "1.0.0",
+  "description": "My Gulp Jasmine Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "jasmine",
+    "karma",
+    "gulp",
+    "npm"
+  ],
+  "author": "ldez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.8",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.17"
+  }
+}
