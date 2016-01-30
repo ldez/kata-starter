@@ -1,0 +1,19 @@
+{
+  "name": "my-tape-project",
+  "version": "1.0.0",
+  "description": "My Tape project",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js | faucet"
+  },
+  "keywords": [
+    "project",
+    "tape"
+  ],
+  "author": "ldez",
+  "license": "ISC",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.2.1"
+  }
+}
