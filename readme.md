@@ -10,6 +10,10 @@ Voir le readme dans le dossier `js`.
 
 Voir le readme dans le dossier `go`.
 
+## Groovy
+
+Voir le readme dans le dossier `groovy`.
+
 ## Scala
 
 Voir le readme dans le dossier `scala`.
@@ -23,4 +27,3 @@ Voir le readme dans le dossier `java`.
 ## Python
 
 Voir le readme dans le dossier `python`.
-
