@@ -8,3 +8,4 @@ help:
 
 tests: ## run phpspec
 	php phpspec.phar run --format=pretty
+

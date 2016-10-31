@@ -10,3 +10,4 @@ VENDOR_BIN := vendor/bin
 
 tests: ## run phpspec if available in vendor/bin
 	@[ -x $(VENDOR_BIN)/phpspec ] && $(VENDOR_BIN)/phpspec run --format=pretty
+
