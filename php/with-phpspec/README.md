@@ -1,5 +1,10 @@
 # PHP kata starter
 
+## Install
+```bash
+composer install
+```
+
 ## Testing tool
 [PhpSpec](https://phpspec.readthedocs.io)
 
