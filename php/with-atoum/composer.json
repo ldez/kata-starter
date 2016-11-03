@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "KataStarter\\WithAtoum\\": "src"
+    }
+  },
+  "require-dev": {
+    "atoum/atoum": "^2.8"
+  }
+}
