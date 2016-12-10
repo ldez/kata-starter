@@ -112,3 +112,19 @@ Run tests: Open `TestRunner.html` file in your browser.
 - Couverture de code en sortie console ou fichier.
 
 Run tests: `karma start` or `npm test`.
+
+
+## Jest
+
+### Jest
+
+- Uniquement Jest.
+
+Run tests: `npm test`.
+
+### Jest & Babel
+
+- Uniquement Jest.
+- Le code de l'application et des tests peuvent être écrit en ES2015+ (via Babel).
+
+Run tests: `npm test`.

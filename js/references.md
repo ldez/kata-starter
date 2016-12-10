@@ -40,6 +40,11 @@ karma start
   - [karma-should](https://github.com/seegno/karma-should)
 
 
+## Jest
+
+- [Jest](https://facebook.github.io/jest)
+
+
 ## CoffeeScript
 
 - [CoffeeScript](http://coffeescript.org) [Github](https://github.com/jashkenas/coffeescript)
