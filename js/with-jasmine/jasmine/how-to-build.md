@@ -43,7 +43,7 @@ About to write to ...\package.json:
   },
   "keywords": [
     "project",
-    "npm"
+    "jasmine"
   ],
   "author": "you",
   "license": "ISC"

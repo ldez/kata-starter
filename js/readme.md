@@ -29,7 +29,7 @@ Run tests: `karma start` or `npm test`.
 ### Jasmine & Karma & Babel
 
 - Karma utilise Jasmine.
-- Le code de l'application et des tests peuvent être écrit en ES6+ (via Babel).
+- Le code de l'application et des tests peuvent être écrit en ES2015+ (via Babel).
 - Couverture de code en sortie console ou fichier.
 
 Run tests: `karma start` or `npm test`.
@@ -55,7 +55,7 @@ Run tests: `karma start` or `npm test`.
 
 ## Mocha
 
-## Mocha - HTML Runner
+### Mocha - HTML Runner
 
 - Uniquement Mocha.
 - Pas de couverture de code.
@@ -90,7 +90,7 @@ Run tests: `karma start` or `npm test`.
 ### Mocha & Karma & Babel
 
 - Karma utilise Mocha.
-- Le code de l'application et des tests peuvent être écrit en ES6+ (via Babel).
+- Le code de l'application et des tests peuvent être écrit en ES2015+ (via Babel).
 - Couverture de code en sortie console ou fichier.
 
 Run tests: `karma start` or `npm test`.
