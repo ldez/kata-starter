@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-- Jasmine, Mocha, QUnit, Babel, Coffeescript, TypeScript
+- Jasmine, Mocha, QUnit, Jest, Babel, Coffeescript, TypeScript
 
 Voir le readme dans le dossier `js`.
 
