@@ -16,4 +16,3 @@ or
 ```bash
 make tests
 ```
-
