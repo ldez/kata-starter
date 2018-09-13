@@ -1,0 +1,15 @@
+# Builds
+build/
+CMakeFiles/
+**/*.cbp
+**/*.cmake
+**/Makefile
+**/CMakeCache.txt
+Debug/
+
+# Google Tests
+tests/lib/
+
+# Jet Brains
+.idea/
+cmake-build-debug/
