@@ -32,3 +32,6 @@ Voir le readme dans le dossier `python`.
 
 Voir le readme dans le dossier `php`.
 
+## C++
+
+Voir le readme dans le dossier `cpp`.
